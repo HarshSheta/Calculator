@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Croissant+One&family=Poppins&family=Roboto&family=Trochut&family=Ubuntu&family=Wavefont&display=swap');
+html,body{
+    font-family: 'roboto', sans-serif;
+}
+.button{
+    padding: 20px;
+    margin: 0px 3px;
+    width: 70px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    font-size: 25px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
